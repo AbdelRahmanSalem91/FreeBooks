@@ -1,6 +1,8 @@
 D:\Programming\Core\MyRepos\FreeBooks\Domain\bin\Debug\net8.0\Domain.deps.json
 D:\Programming\Core\MyRepos\FreeBooks\Domain\bin\Debug\net8.0\Domain.dll
 D:\Programming\Core\MyRepos\FreeBooks\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Programming\Core\MyRepos\FreeBooks\Domain\obj\Debug\net8.0\Domain.Resources.DataResource.resources
+D:\Programming\Core\MyRepos\FreeBooks\Domain\obj\Debug\net8.0\Domain.csproj.GenerateResource.cache
 D:\Programming\Core\MyRepos\FreeBooks\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\Programming\Core\MyRepos\FreeBooks\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 D:\Programming\Core\MyRepos\FreeBooks\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
