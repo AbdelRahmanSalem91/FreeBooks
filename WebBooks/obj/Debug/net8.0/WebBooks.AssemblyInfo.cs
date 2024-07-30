@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebBooks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+079c75e866406df514df4f20949a070e270bc67c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebBooks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebBooks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
