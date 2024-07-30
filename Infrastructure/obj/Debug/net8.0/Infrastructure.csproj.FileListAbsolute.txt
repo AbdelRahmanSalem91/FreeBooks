@@ -14,3 +14,5 @@ D:\Programming\Core\MyRepos\FreeBooks\Infrastructure\obj\Debug\net8.0\Infrastruc
 D:\Programming\Core\MyRepos\FreeBooks\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\Programming\Core\MyRepos\FreeBooks\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\Programming\Core\MyRepos\FreeBooks\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Programming\Core\MyRepos\FreeBooks\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Programming\Core\MyRepos\FreeBooks\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
